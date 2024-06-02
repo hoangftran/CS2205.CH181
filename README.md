@@ -1,4 +1,4 @@
-# Improving Vietnamese Spell Correction: A Comprehensive Dataset and Hybrid Transformer Model
+# HYBRID METHOD COMBINING HIERARCHICAL TRANSFORMER ENCODERS AND SEQUENCE-TO-SEQUENCE FOR VIETNAMESE SPELLING CORRECTION
 
 # Introduction
 
